@@ -8,7 +8,7 @@
 var canvasDiv = document.getElementById('particle-canvas');
 var options = {
   particleColor: '#e3354e',
-  background: 'http://bsnscb.com/data/out/52/39969569-dark-wallpapers.jpg',
+  background: 'https://images.wallpaperscraft.com/image/black_light_dark_figures_73356_1920x1080.jpg',
   interactive: true,
   speed: 'medium',
   density: 'medium'
