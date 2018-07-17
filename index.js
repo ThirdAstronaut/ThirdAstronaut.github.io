@@ -11,6 +11,6 @@ var options = {
   background: 'https://raw.githubusercontent.com/JulianLaval/canvas-particle-network/master/img/demo-bg.jpg',
   interactive: true,
   speed: 'medium',
-  density: '1000'
+  density: '5000'
 };
 var particleCanvas = new ParticleNetwork(canvasDiv, options);
